@@ -42,21 +42,6 @@ Here are some ideas to get you started:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalpcse25-lab&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalpcse25-lab&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujalpcse25-lab&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalpcse25-lab&theme=react-dark&hide_border=true" />
-</p>
 
 ### 📫 Connect with me
 
